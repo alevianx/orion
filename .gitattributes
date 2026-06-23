@@ -1,0 +1,7 @@
+* text=auto
+*.py text eol=lf
+*.pyw text eol=lf
+*.pyz text eol=lf
+*.pyj text eol=lf
+*.pyjz text eol=lf
+*.pyjz text eol=lf
